@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+   "$basetexture" "checkem/wire"
+"$bumpmap""models/nintendo/flat2"
+"$vertexcolor"1
+"$nocull"1
+"$MinLight"2
+"$MaxLight"1
+}

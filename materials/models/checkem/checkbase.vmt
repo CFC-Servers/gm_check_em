@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\checkem/checkbase.vtf"
+	"$bumpmap" "models\checkem/flat.vtf"
+	"$halflambert" 1
+	"$selfillum" 1
+        "$model" 1
+	"$phong" "0"
+	"$phongexponent" "10"
+	"$phongboost" "5"
+	"$phongfresnelranges" "[.1 2 8]" 
+	"$rimlight" "1" // To enable rim lighting (requires phong)
+	"$rimlightexponent" "2" // Exponent for phong component of rim lighting
+	"$rimlightboost" "10" // Boost for ambient cube component of rim lighting
+	// "$alphatest" 1
+	"$nodecal" 1
+}

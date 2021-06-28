@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+   "$basetexture" "checkem/Blip2"
+"$vertexcolor"1
+"$translucent" 1
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" 15
+      }
+   }
+
+}

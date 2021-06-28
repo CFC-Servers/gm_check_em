@@ -1,0 +1,8 @@
+"unlitgeneric"
+{
+	"$baseTexture" "models\checkem/and2.vtf"
+	"$halflambert" 1
+        "$model" 1
+	"$translucent" 1
+	"$nodecal" 1
+}

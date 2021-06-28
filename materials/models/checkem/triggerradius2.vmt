@@ -1,0 +1,19 @@
+"unlitgeneric"
+{
+	"$baseTexture" "models\checkem/triggerradius2.vtf"
+	"$halflambert" 1
+	"$translucent" 1
+        "$model" 1
+//	"$alpha" 0.5
+	"$nocull" 1
+//	"$selfillum" 1
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "50"
+	"$phongfresnelranges" "[.1 2 8]" 
+	"$rimlight" "1" // To enable rim lighting (requires phong)
+	"$rimlightexponent" "2" // Exponent for phong component of rim lighting
+	"$rimlightboost" "10" // Boost for ambient cube component of rim lighting
+	"$addative" 1
+	"$nodecal" 1
+}
